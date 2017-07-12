@@ -1,0 +1,22 @@
+{
+  "name": "weapp-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentli2017/weapp-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentli2017/weapp-exercise/issues"
+  },
+  "homepage": "https://github.com/vincentli2017/weapp-exercise#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
